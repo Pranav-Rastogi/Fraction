@@ -1,2 +1,2 @@
 # Fraction
-Java implementation of a fraction.
+Java-12 implementation of a fraction.
